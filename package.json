@@ -1,0 +1,24 @@
+{
+  "name": "array_remove_index",
+  "version": "0.0.1",
+  "description": "removes a member from a deduped array, by index",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Med116/array_remove_index.git"
+  },
+  "keywords": [
+    "array.slice",
+    "array.concat"
+  ],
+  "author": "mark116",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Med116/array_remove_index/issues"
+  },
+  "homepage": "https://github.com/Med116/array_remove_index",
+  "readme":"README.md"
+}
